@@ -17,13 +17,15 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://drive.google.com/file/d/1PLPpxnQ9elLn72228OsdXtg2E6fqhYBo/view?usp=sharing</string>
+<!-- 					<string>https://drive.google.com/file/d/1PLPpxnQ9elLn72228OsdXtg2E6fqhYBo/view?usp=sharing</string> -->
+					<string>pentagon57x57</string>					
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://drive.google.com/file/d/1PLPpxnQ9elLn72228OsdXtg2E6fqhYBo/view?usp=sharing</string>
+<!-- 					<string>https://drive.google.com/file/d/1PLPpxnQ9elLn72228OsdXtg2E6fqhYBo/view?usp=sharing</string> -->
+					<string>pentagon512x512</string>
 				</dict>
 			</array>
 			<key>metadata</key>
